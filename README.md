@@ -1,3 +1,22 @@
+install ERP:
+
+<img width="1918" height="971" alt="Screenshot 2026-07-24 213730" src="https://github.com/user-attachments/assets/65dbca88-960c-4616-a8f3-1d8f5622e950" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <img src="docs/public/frappe-docker.png" alt="Frappe Docker" width="80" />
   <h1>Frappe Docker</h1>
