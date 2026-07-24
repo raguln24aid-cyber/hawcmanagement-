@@ -1,6 +1,7 @@
 install ERP:
 
-<img width="1918" height="971" alt="Screenshot 2026-07-24 213730" src="https://github.com/user-attachments/assets/65dbca88-960c-4616-a8f3-1d8f5622e950" />
+<img width="1707" height="917" alt="image" src="https://github.com/user-attachments/assets/0d683ab5-caa4-47c3-9bda-261e1acfe0c3" />
+
 
 
 
